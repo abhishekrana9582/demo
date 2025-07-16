@@ -1,4 +1,5 @@
-# demo
+#Amazon Clone Project
+
 Amazon  Clone Project
 This is a simple Amazon Clone (first page only) created using HTML and CSS. The purpose of this project is to practice and demonstrate frontend web development skills by replicating the look and layout of the Amazon homepage.
 
